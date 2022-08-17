@@ -3,6 +3,8 @@ The main overview with brief descriptions of how projects will be handeld.
 What i will use troughout the semester to plan and work.
 
 ## Contex Diagram
+![Diagram](https://user-images.githubusercontent.com/105197212/185251026-77a6510b-27b3-4d7f-8471-33357c03d4ed.png)
+
 
 ## Project 1
 We were tasked to build a planning board on how, when, and when its due.
