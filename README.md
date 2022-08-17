@@ -29,4 +29,4 @@ TBC
 
 ## Usage of git ignore
 
-## Storage of cridentials and sensitive information
+## Storage of credentials and sensitive information
