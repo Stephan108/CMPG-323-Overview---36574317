@@ -46,7 +46,7 @@ A git.ignore file is a plain text file with a pattern for files and directories 
 I'll  be using the git.ignore function. By adding my sensitive information or credentials to a file which i will add to git.ignore it will ensure that no sensitive data will  be unintentionally merged and pushed to my repositries. 
   
 ## List of repositories
-Project 1:  https://github.com/Stephan108/CMPG-323-Overview---36574317.git
+Project 1:  https://github.com/Stephan108/CMPG-323-Overview---36574317
 <p>Project 2:
 <p>Project 3:
 <p>Project 4:
