@@ -27,6 +27,6 @@ TBC
 
 ## Branching Stratergies
 
-## Usage of git ignore
+## Usage of git.ignore
 
 ## Storage of credentials and sensitive information
