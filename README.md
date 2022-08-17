@@ -27,8 +27,10 @@ TBC
 
 ## Branching Stratergies
 I will be using the standard GitFlow Branching method. Where I would have my Master branch and directly below it my development branch.
-In the developmetn branch I will have my fetures branches, in which i will add my new fetures before adding it to the development and then finally the master branch 
+In the developmetn branch I will have my fetures branches, in which i will add my new fetures before adding it to the development and then finally the master branch
+  
 ![20180412-git-flow](https://user-images.githubusercontent.com/105197212/185249114-5bc9cb81-8247-44ff-a3c4-a8b242254261.png)
+  <p>https://www.campingcoder.com/2018/04/how-to-use-git-flow/
 
 ## Usage of git.ignore
 
