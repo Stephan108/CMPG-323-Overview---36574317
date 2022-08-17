@@ -38,11 +38,11 @@ Since it's simpler to switch between stages of the development pipeline thanks t
   <p>https://www.campingcoder.com/2018/04/how-to-use-git-flow/
 
 ## Usage of git.ignore
-    A git.ignore file is a plain text file with a pattern for files and directories to ignore on each line.
+A git.ignore file is a plain text file with a pattern for files and directories to ignore on each line.
     I'll be using it to secure log files and most importantly files with API keys/secrets, credentials, or sensitive information.
 
 ## Storage of credentials and sensitive information
-    I'll  be using the git.ignore function. By adding my sensitive information or credentials to a file which i will add to git.ignore it will ensure that no sensitive data will  be unintentionally merged and pushed to my repositries. 
+I'll  be using the git.ignore function. By adding my sensitive information or credentials to a file which i will add to git.ignore it will ensure that no sensitive data will  be unintentionally merged and pushed to my repositries. 
   
 ## List of repositories
 Project 1:  https://github.com/Stephan108/CMPG-323-Overview---36574317.git
