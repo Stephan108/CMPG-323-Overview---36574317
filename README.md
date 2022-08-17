@@ -1,6 +1,6 @@
 # CMPG-323-Overview---36574317
 The main overview with brief descriptions of how projects will be handeld.
-What i will use troughout the semester to plan and work.
+What I will use troughout the semester to plan and work.
 
 ## Contex Diagram
 As you will see in the diagram below i will create a repositry for each project and it will be connected on my project i made in project 1
@@ -38,8 +38,11 @@ Since it's simpler to switch between stages of the development pipeline thanks t
   <p>https://www.campingcoder.com/2018/04/how-to-use-git-flow/
 
 ## Usage of git.ignore
+    A git.ignore file is a plain text file with a pattern for files and directories to ignore on each line.
+    I'll be using it to secure log files and most importantly files with API keys/secrets, credentials, or sensitive information.
 
 ## Storage of credentials and sensitive information
+    I'll  be using the git.ignore function. By adding my sensitive information or credentials to a file which i will add to git.ignore it will ensure that no sensitive data will  be unintentionally merged and pushed to my repositries. 
   
 ## List of repositories
 Project 1:  https://github.com/Stephan108/CMPG-323-Overview---36574317.git
