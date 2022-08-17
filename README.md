@@ -31,7 +31,7 @@ TBC
 
 ## Storage of credentials and sensitive information
   
-## List of respetories
+## List of repositories
 https://github.com/Stephan108/CMPG-323-Overview---36574317.git
 
 ## Project url
