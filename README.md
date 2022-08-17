@@ -6,7 +6,7 @@ What i will use troughout the semester to plan and work.
 
 ## Project 1
 We were tasked to build a planning board on how, when, and when its due.
-Classes, tasks, and projects are listed with their due dates and is stated wheter or not its completed.
+<p>Classes, tasks, and projects are listed with their due dates and is stated wheter or not its completed.
 
 ## Project 2
 TBC
@@ -33,10 +33,10 @@ TBC
   
 ## List of repositories
 Project 1:  https://github.com/Stephan108/CMPG-323-Overview---36574317.git
-Project 2:
-project 3:
-Project 4:
-Project 5:
+<p>Project 2:
+<p>Project 3:
+<p>Project 4:
+<p>Project 5:
 
 ## Project url
 https://github.com/users/Stephan108/projects/2
