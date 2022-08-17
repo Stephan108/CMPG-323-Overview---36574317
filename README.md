@@ -1,6 +1,7 @@
 # CMPG-323-Overview---36574317
 The main overview with brief descriptions of how projects will be handeld.
 What I will use troughout the semester to plan and work.
+<p> As the semester continue I will update this ReadMe file  
 
 ## Contex Diagram
 As you will see in the diagram below i will create a repositry for each project and it will be connected on my project i made in project 1
