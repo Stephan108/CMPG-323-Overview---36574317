@@ -2,7 +2,7 @@
 The main overview with brief descriptions of how projects will be handeld.
 What i will use troughout the semester to plan and work.
 
-## COntex Diagram
+## Contex Diagram
 
 ## Project 1
 We were tasked to build a planning board on how, when, and when its due.
