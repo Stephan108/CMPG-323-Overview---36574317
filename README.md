@@ -14,7 +14,7 @@ We were tasked to build a planning board on how, when, and when its due.
 <p>Classes, tasks, and projects are listed with their due dates and is stated wheter or not its completed.
 
 ## Project 2
-TBC
+Created a new respotory https://github.com/Stephan108/CMPG-323-Project-2---36574317.
 
 ## Project 3
 TBC
@@ -47,7 +47,7 @@ I'll  be using the git.ignore function. By adding my sensitive information or cr
   
 ## List of repositories
 Project 1:  https://github.com/Stephan108/CMPG-323-Overview---36574317
-<p>Project 2:
+<p>Project 2: https://github.com/Stephan108/CMPG-323-Project-2---36574317
 <p>Project 3:
 <p>Project 4:
 <p>Project 5:
