@@ -15,6 +15,7 @@ We were tasked to build a planning board on how, when, and when its due.
 
 ## Project 2
 Created a new respotory https://github.com/Stephan108/CMPG-323-Project-2---36574317.
+<p>Here I created a CURD APi trough visual studion which implements the azure database and wagger tho have a working API
 
 ## Project 3
 TBC
