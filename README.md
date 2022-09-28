@@ -21,7 +21,7 @@ Created a new respotory https://github.com/Stephan108/CMPG-323-Project-2---36574
 ## Project 3
 Created a new respotory https://github.com/Stephan108/CMPG-323-Project-3---36574317.
 <p> Forked and used from https://github.com/JacquiM/CMPG-323-IOT-Device-Management. Where I Made use of a development brance to implement my Tier 2 Repository patterns 
-
+<p> created Repository classes and intervaces for Generic, Devices, Zones and Categories.
 
 ## Project 4
 TBC
