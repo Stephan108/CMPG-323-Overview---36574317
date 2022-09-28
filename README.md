@@ -19,7 +19,9 @@ Created a new respotory https://github.com/Stephan108/CMPG-323-Project-2---36574
   <p>I also got to work with Azure and how to creat and setup SQL servers and databasses
 
 ## Project 3
-TBC
+Created a new respotory https://github.com/Stephan108/CMPG-323-Project-3---36574317.
+<p> Forked and used from https://github.com/JacquiM/CMPG-323-IOT-Device-Management. Where I Made use of a development brance to implement my Tier 2 Repository patterns 
+
 
 ## Project 4
 TBC
@@ -50,7 +52,7 @@ I'll  be using the git.ignore function. By adding my sensitive information or cr
 ## List of repositories
 Project 1:  https://github.com/Stephan108/CMPG-323-Overview---36574317
 <p>Project 2: https://github.com/Stephan108/CMPG-323-Project-2---36574317
-<p>Project 3:
+<p>Project 3: https://github.com/Stephan108/CMPG-323-Project-3---36574317
 <p>Project 4:
 <p>Project 5:
 
