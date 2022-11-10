@@ -29,7 +29,9 @@ Created a new respotory https://github.com/Stephan108/CMPG-323-Project-4---36574
 <p> publihed in Orchestrator https://cloud.uipath.com/stephansworkspace/DefaultTenant/orchestrator_/?tid=1237708&fid=3812556
 
 ## Project 5
-TBC
+Used power BI to build and generate a report for stakeholders to see thesame information pertaining to the status of IoT device registrations on various platforms 
+<p>the link to the report
+<p>https://app.powerbi.com/links/61h4ul5z0x?ctid=331c86e7-d032-436f-bc53-f2552d031012&pbi_source=linkShare
 
 ## Portfolio of Evidence (POE)
 TBC
@@ -56,7 +58,7 @@ Project 1:  https://github.com/Stephan108/CMPG-323-Overview---36574317
 <p>Project 2: https://github.com/Stephan108/CMPG-323-Project-2---36574317
 <p>Project 3: https://github.com/Stephan108/CMPG-323-Project-3---36574317
 <p>Project 4: https://github.com/Stephan108/CMPG-323-Project-4---36574317
-<p>Project 5:
+<p>Project 5: https://github.com/Stephan108/CMPG-323-Project-5---36574317
 
 ## Project url
 https://github.com/users/Stephan108/projects/2
